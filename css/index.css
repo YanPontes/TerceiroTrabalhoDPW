@@ -1,0 +1,19 @@
+h1{
+  color: #ff0000;
+  font-family: "Comic Sans MS";
+}
+
+h2{
+  color: #0000ff;
+  font-family: "Courier New";
+}
+
+main section img{
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+
+main #mensagem{
+  margin: 20px 0;
+}
